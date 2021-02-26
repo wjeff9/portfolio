@@ -5,9 +5,9 @@ import KnownPhoto from "./photos/foodie_research/features_known.png"
 import SortPhoto from "./photos/foodie_research/foodie_card_sort.png"
 // import FormDesign from "./photos/form_design.jpg"
 import PersonaPhoto from "./photos/foodie_persona.jpg"
-import RecipeIA from "./photos/foodie_ia/recipe_ia.png"
-import CommunityIA from "./photos/foodie_ia/community_ia.png"
-import AccountIA from "./photos/foodie_ia/account_ia.png"
+import RecipeIA from "./photos/foodie_ia/recipe_ia.jpg"
+import CommunityIA from "./photos/foodie_ia/community_ia.jpg"
+import AccountIA from "./photos/foodie_ia/account_ia.jpg"
 import ProtoPhoto from "./photos/foodie_figma.png"
 
 
