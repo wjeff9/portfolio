@@ -28,7 +28,7 @@ function ProjEscape(props) {
             <br />
             <h2 className="title2">Team</h2>
             <p className="article">
-                I'm working on this project with a few college friends. Andy Cahill and John Rosen are the developers, Darren Ma is the project manager, and I'm the UX designer. Chris Coward, the researcher behind the project, and Lindsay Morsel, a game desinger, are our mentors.
+                I'm working on this project with a few college friends. Andy Cahill and John Rosen are the developers, Darren Ma is the project manager, and I'm the UX designer. Chris Coward, the researcher behind the project, and Lindsay Morse, a game desinger, are our mentors.
             </p>
             <br />
             <h1 className="title1">Usability Testing</h1>
