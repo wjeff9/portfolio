@@ -15,7 +15,7 @@ function ProjFoodie(props) {
     return (
         <div className="proj-body">
             {/* <img src={Photo1} alt="a cup of coffee" className="project-photo" /> */}
-            <img src={SushiPhoto} alt="salmon nigiri" className="cover-photo" />
+            <img src={SushiPhoto} alt="white sushi roll with green sauce" className="cover-photo" />
             <p className="caption">
                 pc <a href="https://unsplash.com/@cathsmithphoto" target="_blank" rel="noopener noreferrer">Cath Smith</a>
             </p>

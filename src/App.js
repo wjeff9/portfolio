@@ -7,6 +7,8 @@ import ScrollToTop from './ScrollToTop.js'
 import ProjMyWebsite from './ProjMyWebsite'
 import ProjSecurate from './ProjSecurate'
 import ProjFoodie from './ProjFoodie'
+import ProjEscape from './ProjEscape'
+
 
 function App() {
   // TODO: Fix link iteraction (active link should be white)
@@ -28,6 +30,8 @@ function App() {
             <Route path="/work/foodie" component={ProjFoodie} />
             <Route path="/work/securate" component={ProjSecurate} />
             <Route path="/work/this+website" component={ProjMyWebsite} />
+            <Route path="/work/escape+room" component={ProjEscape} />
+
           </Switch>
         </ScrollToTop>
       </HashRouter>
