@@ -183,7 +183,7 @@ work
 
 .card-row:hover {
   opacity: 1;
-  background-color:#000000;
+  /* background-color:#000000; */
   /* border-radius: 15px; */
 }
 
