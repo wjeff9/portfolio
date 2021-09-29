@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.b61bbe7a.chunk.css",
-    "main.js": "/portfolio/static/js/main.40f0bf7b.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.40f0bf7b.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.c080ad89.chunk.css",
+    "main.js": "/portfolio/static/js/main.5bb1c33e.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.5bb1c33e.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.a9f76519.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.a9f76519.js.map",
     "static/js/2.49881796.chunk.js": "/portfolio/static/js/2.49881796.chunk.js",
     "static/js/2.49881796.chunk.js.map": "/portfolio/static/js/2.49881796.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.b61bbe7a.chunk.css.map": "/portfolio/static/css/main.b61bbe7a.chunk.css.map",
+    "static/css/main.c080ad89.chunk.css.map": "/portfolio/static/css/main.c080ad89.chunk.css.map",
     "static/js/2.49881796.chunk.js.LICENSE.txt": "/portfolio/static/js/2.49881796.chunk.js.LICENSE.txt",
     "static/media/about_figma.1a2eae9f.png": "/portfolio/static/media/about_figma.1a2eae9f.png",
     "static/media/account_ia.57959b01.jpg": "/portfolio/static/media/account_ia.57959b01.jpg",
     "static/media/blue_flower.cbeba15c.jpg": "/portfolio/static/media/blue_flower.cbeba15c.jpg",
     "static/media/blue_pic.b6140016.jpg": "/portfolio/static/media/blue_pic.b6140016.jpg",
-    "static/media/blue_portrait.1d1f3984.jpg": "/portfolio/static/media/blue_portrait.1d1f3984.jpg",
     "static/media/community_ia.9b12e738.jpg": "/portfolio/static/media/community_ia.9b12e738.jpg",
     "static/media/drugs.a8c4e449.jpg": "/portfolio/static/media/drugs.a8c4e449.jpg",
     "static/media/escape_tn.40a597a1.jpg": "/portfolio/static/media/escape_tn.40a597a1.jpg",
@@ -24,6 +23,7 @@
     "static/media/foodie_persona.6e0566c3.jpg": "/portfolio/static/media/foodie_persona.6e0566c3.jpg",
     "static/media/hours_daily.4a08ed62.png": "/portfolio/static/media/hours_daily.4a08ed62.png",
     "static/media/mark_novo_ss.ba257723.png": "/portfolio/static/media/mark_novo_ss.ba257723.png",
+    "static/media/portrait.6feac9c9.jpg": "/portfolio/static/media/portrait.6feac9c9.jpg",
     "static/media/proj_figma.27f37cc0.png": "/portfolio/static/media/proj_figma.27f37cc0.png",
     "static/media/puzzle_1.ee337712.jpg": "/portfolio/static/media/puzzle_1.ee337712.jpg",
     "static/media/puzzle_1_before.5b73e101.png": "/portfolio/static/media/puzzle_1_before.5b73e101.png",
@@ -37,7 +37,7 @@
   "entrypoints": [
     "static/js/runtime-main.a9f76519.js",
     "static/js/2.49881796.chunk.js",
-    "static/css/main.b61bbe7a.chunk.css",
-    "static/js/main.40f0bf7b.chunk.js"
+    "static/css/main.c080ad89.chunk.css",
+    "static/js/main.5bb1c33e.chunk.js"
   ]
 }
