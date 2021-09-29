@@ -27,7 +27,7 @@ start with regular screen-size and adjust css for different sizes later
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap');
 
 body {
-  background-color: #121212;
+  background-color: #FFFFFF;
   font-family: proxima-nova, 'Roboto', sans-serif;
   font-size: 1.5vw;
   font-weight: 300;
@@ -40,19 +40,19 @@ body {
 } */
 
 p {
-  color: #ffffff;
+  color: #000000;
   margin: 0px;
 }
 
 a:link, a:visited {
   text-decoration: none;
-  color: #ffffff;
-  opacity: .5;
+  color: #000000;
+  opacity: 1;
 }
 
 a:hover {
-  color: #ffffff;
-  opacity: 1;
+  color: #000000;
+  opacity: .25;
 }
 
 nav {
@@ -67,9 +67,9 @@ nav {
 
 #logo {
   font-family: proxima-nova-extra-condensed, 'Roboto Condensed', sans-serif;
-  font-weight: 600;
+  font-weight: 700;
   text-transform: uppercase;
-  color: #ffffff;
+  color: #000000;
   opacity: 1;
   margin-left: 2%;
 }
@@ -81,7 +81,7 @@ nav {
 }
 
 .nav-col {
-  color: #888888;
+  color: #000000;
   margin-right: 5%;
 }
 
@@ -97,9 +97,9 @@ about
 }
 
 .intro-head {
-  font-weight: 600;
+  font-weight: 700;
   font-size: 150%;
-  color: #ffffff;
+  color: #000000;
   display: inline;
 }
 
@@ -114,7 +114,6 @@ about
   margin-right: 20%;
   margin-top: 2%;
   margin-bottom: 2%;
-
 }
 
 .about-col1 {
@@ -169,10 +168,10 @@ work
 }
 
 .card-name {
-  font-weight: 600;
+  font-weight: 700;
   font-size: 150%;
   text-transform: none;
-  color: #FFFFFF;
+  color: #000000;
   display: inline;
 }
 
@@ -192,18 +191,18 @@ project
 */
 
 .title1 {
-  font-weight: 600;
+  font-weight: 700;
   font-size: 300%;
-  color: #ffffff;
+  color: #000000;
   text-align: center;
   margin: 0px;
   padding-top: 5%;
 }
 
 .title2 {
-  font-weight: 600;
+  font-weight: 700;
   font-size: 150%;
-  color: #ffffff;
+  color: #000000;
   /* text-align: center; */
   margin: 0px;
 }
@@ -258,11 +257,11 @@ footer {
 }
 
 #contact {
-  font-family: proxima-nova-extra-condensed, 'Roboto Condensed', sans-serif;
-  font-weight: 600;
+  font-family: proxima-nova, 'Roboto', sans-serif;
+  font-weight: 700;
   font-size: 100%;
-  text-transform: uppercase;
-  color: #ffffff;
+  /* text-transform: uppercase; */
+  color: #000000;
   display: inline;
 }
 
