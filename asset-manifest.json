@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.1d5c0237.chunk.css",
-    "main.js": "/portfolio/static/js/main.053f646e.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.053f646e.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.39dc2ed7.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.39dc2ed7.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.a9f76519.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.a9f76519.js.map",
     "static/js/2.49881796.chunk.js": "/portfolio/static/js/2.49881796.chunk.js",
@@ -23,7 +23,7 @@
     "static/media/foodie_persona.6e0566c3.jpg": "/portfolio/static/media/foodie_persona.6e0566c3.jpg",
     "static/media/hours_daily.4a08ed62.png": "/portfolio/static/media/hours_daily.4a08ed62.png",
     "static/media/mark_novo_ss.ba257723.png": "/portfolio/static/media/mark_novo_ss.ba257723.png",
-    "static/media/portrait.6feac9c9.jpg": "/portfolio/static/media/portrait.6feac9c9.jpg",
+    "static/media/portrait.31d06495.jpg": "/portfolio/static/media/portrait.31d06495.jpg",
     "static/media/proj_figma.27f37cc0.png": "/portfolio/static/media/proj_figma.27f37cc0.png",
     "static/media/puzzle_1.ee337712.jpg": "/portfolio/static/media/puzzle_1.ee337712.jpg",
     "static/media/puzzle_1_before.5b73e101.png": "/portfolio/static/media/puzzle_1_before.5b73e101.png",
@@ -38,6 +38,6 @@
     "static/js/runtime-main.a9f76519.js",
     "static/js/2.49881796.chunk.js",
     "static/css/main.1d5c0237.chunk.css",
-    "static/js/main.053f646e.chunk.js"
+    "static/js/main.39dc2ed7.chunk.js"
   ]
 }
