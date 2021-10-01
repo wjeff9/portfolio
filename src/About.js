@@ -1,5 +1,5 @@
 import React from "react"
-import Portrait from "./photos/portrait.jpg"
+import Portrait from "./photos/portrait.png"
 
 function About(props) {
     return (
