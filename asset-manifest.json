@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.c080ad89.chunk.css",
-    "main.js": "/portfolio/static/js/main.5bb1c33e.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.5bb1c33e.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.a18af27e.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.a18af27e.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.a9f76519.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.a9f76519.js.map",
     "static/js/2.49881796.chunk.js": "/portfolio/static/js/2.49881796.chunk.js",
@@ -28,8 +28,8 @@
     "static/media/puzzle_1.ee337712.jpg": "/portfolio/static/media/puzzle_1.ee337712.jpg",
     "static/media/puzzle_1_before.5b73e101.png": "/portfolio/static/media/puzzle_1_before.5b73e101.png",
     "static/media/recipe_ia.3eb100c1.jpg": "/portfolio/static/media/recipe_ia.3eb100c1.jpg",
+    "static/media/super-crowds-gastronaut-tn.377db21b.png": "/portfolio/static/media/super-crowds-gastronaut-tn.377db21b.png",
     "static/media/sushi.8fdbfdbb.jpg": "/portfolio/static/media/sushi.8fdbfdbb.jpg",
-    "static/media/sushi_tn.2e262ff1.jpg": "/portfolio/static/media/sushi_tn.2e262ff1.jpg",
     "static/media/thumbnail_template.cf5ed8ee.jpg": "/portfolio/static/media/thumbnail_template.cf5ed8ee.jpg",
     "static/media/usability_testing.dd1287b0.jpg": "/portfolio/static/media/usability_testing.dd1287b0.jpg",
     "static/media/work_figma.bacaf467.png": "/portfolio/static/media/work_figma.bacaf467.png"
@@ -38,6 +38,6 @@
     "static/js/runtime-main.a9f76519.js",
     "static/js/2.49881796.chunk.js",
     "static/css/main.c080ad89.chunk.css",
-    "static/js/main.5bb1c33e.chunk.js"
+    "static/js/main.a18af27e.chunk.js"
   ]
 }
