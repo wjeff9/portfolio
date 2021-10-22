@@ -1,7 +1,7 @@
 import React from "react"
 import Card from "./Card"
 import Thumbnail from "./photos/thumbnail_template.jpg"
-import FoodieTN from "./photos/gastro-home2-tn.png"
+import FoodieTN from "./photos/super-crowds-gastronaut.png"
 import { Link } from 'react-router-dom';
 import Portrait from "./photos/blue_flower.jpg"
 import EscapeTN from "./photos/escape_tn.jpg"
