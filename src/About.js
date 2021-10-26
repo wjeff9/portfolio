@@ -11,11 +11,13 @@ function About(props) {
                 <h2 className="intro-head">
                     Hello, <br />
                     I’m Jeffrey, <br />
-                    a UX Designer.
+                    a Product Designer.
                 </h2>
                 <br /><br />
                 <p className="intro">
-                    I study informatics with a focus in human-computer interaction at the University of Washington. I chose this career because I enjoy sketching, being creative, and interacting with others. I care about designing interfaces that are intuitive, accessible, and beautiful. 
+                    I study informatics with a focus in human-computer interaction at the University of Washington. 
+                    I strive to produce interfaces that are elegant, intuitive, and accessible to everyone. I hope to spend my career creating innovative solutions that leave a lasting impact on society. 
+                    {/* I chose this career because I enjoy sketching, being creative, and interacting with others.  */}
                 </p>
                 {/* <br /> */}
                 {/* <p className="intro">

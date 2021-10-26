@@ -1,6 +1,7 @@
 import React from "react"
 import Card from "./Card"
 import Thumbnail from "./photos/thumbnail_template.jpg"
+import NetflixTN from "./photos/netflix-logo.png"
 import FoodieTN from "./photos/super-crowds-gastronaut.png"
 import { Link } from 'react-router-dom';
 import Portrait from "./photos/blue_flower.jpg"
@@ -10,8 +11,11 @@ function Work(props) {
         return (
             <div>
                     <a href="https://app.pitch.com/app/public/player/5769cfdf-cec6-4039-a0af-a3f9bb5e21a4" target="_blank" rel="noopener noreferrer" className="card">
-                        <Card name="Gastronaut" desc="Designing an app for culinary enthusiasts. Work in Progress." photo={FoodieTN} />
+                        <Card name="Gastronaut" desc="Designing an app for culinary enthusiasts." photo={FoodieTN} />
                     </a>
+                    {/* <a href="https://app.pitch.com/app/public/player/5769cfdf-cec6-4039-a0af-a3f9bb5e21a4" target="_blank" rel="noopener noreferrer" className="card">
+                        <Card name="Netflix Community" desc="Designing Netflix features to increase community engagement." photo={NetflixTN} />
+                    </a> */}
                     <Link className="card" to="/work/escape+room">
                         <Card name="Escape Room" desc="Creating a virtual escape room. Work in progress." photo={EscapeTN} />
                     </Link>
