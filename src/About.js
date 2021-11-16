@@ -11,7 +11,7 @@ function About(props) {
                 <h2 className="intro-head">
                     Hello, <br />
                     I’m Jeffrey, <br />
-                    a Product Designer.
+                    a UX Designer.
                 </h2>
                 <br /><br />
                 <p className="intro">
