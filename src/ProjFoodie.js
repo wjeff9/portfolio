@@ -1,5 +1,5 @@
 import React from "react"
-import SushiPhoto from "./photos/sushi.jpg"
+// import SushiPhoto from "./photos/sushi.jpg"
 import HoursPhoto from "./photos/foodie_research/hours_daily.png"
 import KnownPhoto from "./photos/foodie_research/features_known.png"
 import SortPhoto from "./photos/foodie_research/foodie_card_sort.png"
@@ -15,7 +15,7 @@ function ProjFoodie(props) {
     return (
         <div className="proj-body">
             {/* <img src={Photo1} alt="a cup of coffee" className="project-photo" /> */}
-            <img src={SushiPhoto} alt="white sushi roll with green sauce" className="cover-photo" />
+            {/* <img src={SushiPhoto} alt="white sushi roll with green sauce" className="cover-photo" /> */}
             <p className="caption">
                 pc <a href="https://unsplash.com/@cathsmithphoto" target="_blank" rel="noopener noreferrer">Cath Smith</a>
             </p>
