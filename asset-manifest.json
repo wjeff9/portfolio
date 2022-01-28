@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.1d5c0237.chunk.css",
-    "main.js": "/portfolio/static/js/main.4fe31b4f.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.4fe31b4f.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.804cb54e.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.804cb54e.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.a9f76519.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.a9f76519.js.map",
-    "static/js/2.49881796.chunk.js": "/portfolio/static/js/2.49881796.chunk.js",
-    "static/js/2.49881796.chunk.js.map": "/portfolio/static/js/2.49881796.chunk.js.map",
+    "static/js/2.fbda82e8.chunk.js": "/portfolio/static/js/2.fbda82e8.chunk.js",
+    "static/js/2.fbda82e8.chunk.js.map": "/portfolio/static/js/2.fbda82e8.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/main.1d5c0237.chunk.css.map": "/portfolio/static/css/main.1d5c0237.chunk.css.map",
-    "static/js/2.49881796.chunk.js.LICENSE.txt": "/portfolio/static/js/2.49881796.chunk.js.LICENSE.txt",
+    "static/js/2.fbda82e8.chunk.js.LICENSE.txt": "/portfolio/static/js/2.fbda82e8.chunk.js.LICENSE.txt",
     "static/media/about_figma.1a2eae9f.png": "/portfolio/static/media/about_figma.1a2eae9f.png",
     "static/media/account_ia.57959b01.jpg": "/portfolio/static/media/account_ia.57959b01.jpg",
     "static/media/blue_flower.cbeba15c.jpg": "/portfolio/static/media/blue_flower.cbeba15c.jpg",
@@ -21,24 +21,23 @@
     "static/media/foodie_card_sort.25467b56.png": "/portfolio/static/media/foodie_card_sort.25467b56.png",
     "static/media/foodie_figma.dd6eaac2.png": "/portfolio/static/media/foodie_figma.dd6eaac2.png",
     "static/media/foodie_persona.6e0566c3.jpg": "/portfolio/static/media/foodie_persona.6e0566c3.jpg",
+    "static/media/gastro2-tn.ad674d09.png": "/portfolio/static/media/gastro2-tn.ad674d09.png",
     "static/media/hours_daily.4a08ed62.png": "/portfolio/static/media/hours_daily.4a08ed62.png",
     "static/media/mark_novo_ss.ba257723.png": "/portfolio/static/media/mark_novo_ss.ba257723.png",
-    "static/media/netflix-logo.128e29d9.png": "/portfolio/static/media/netflix-logo.128e29d9.png",
+    "static/media/netflix-rooms-tn.1bd38d8c.png": "/portfolio/static/media/netflix-rooms-tn.1bd38d8c.png",
     "static/media/portrait.b51d3402.png": "/portfolio/static/media/portrait.b51d3402.png",
     "static/media/proj_figma.27f37cc0.png": "/portfolio/static/media/proj_figma.27f37cc0.png",
     "static/media/puzzle_1.ee337712.jpg": "/portfolio/static/media/puzzle_1.ee337712.jpg",
     "static/media/puzzle_1_before.5b73e101.png": "/portfolio/static/media/puzzle_1_before.5b73e101.png",
     "static/media/recipe_ia.3eb100c1.jpg": "/portfolio/static/media/recipe_ia.3eb100c1.jpg",
-    "static/media/super-crowds-gastronaut.e861f656.png": "/portfolio/static/media/super-crowds-gastronaut.e861f656.png",
-    "static/media/sushi.8fdbfdbb.jpg": "/portfolio/static/media/sushi.8fdbfdbb.jpg",
     "static/media/thumbnail_template.cf5ed8ee.jpg": "/portfolio/static/media/thumbnail_template.cf5ed8ee.jpg",
     "static/media/usability_testing.dd1287b0.jpg": "/portfolio/static/media/usability_testing.dd1287b0.jpg",
     "static/media/work_figma.bacaf467.png": "/portfolio/static/media/work_figma.bacaf467.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a9f76519.js",
-    "static/js/2.49881796.chunk.js",
+    "static/js/2.fbda82e8.chunk.js",
     "static/css/main.1d5c0237.chunk.css",
-    "static/js/main.4fe31b4f.chunk.js"
+    "static/js/main.804cb54e.chunk.js"
   ]
 }
