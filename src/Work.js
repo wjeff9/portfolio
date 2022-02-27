@@ -13,7 +13,7 @@ function Work(props) {
                     <a href="https://app.pitch.com/app/public/player/5769cfdf-cec6-4039-a0af-a3f9bb5e21a4" target="_blank" rel="noopener noreferrer" className="card">
                         <Card name="Gastronaut" desc="Designing an app for culinary enthusiasts." photo={FoodieTN} />
                     </a>
-                    <a href="https://app.pitch.com/app/presentation/2302415e-9b12-4c25-b62b-6ec1f2840139/cd7c36bb-8840-489f-a99e-141b320bcb60" target="_blank" rel="noopener noreferrer" className="card">
+                    <a href="https://app.pitch.com/app/public/player/cd7c36bb-8840-489f-a99e-141b320bcb60" target="_blank" rel="noopener noreferrer" className="card">
                         <Card name="Netflix Rooms" desc="Designing Netflix features to promote social interactions between viewers. Work in progress." photo={NetflixTN} />
                     </a>
                     {/* <Link className="card" to="/work/escape+room">
