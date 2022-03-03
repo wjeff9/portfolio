@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.1d5c0237.chunk.css",
-    "main.js": "/portfolio/static/js/main.804cb54e.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.804cb54e.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.c8f9bb70.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.c8f9bb70.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.a9f76519.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.a9f76519.js.map",
     "static/js/2.fbda82e8.chunk.js": "/portfolio/static/js/2.fbda82e8.chunk.js",
@@ -24,7 +24,7 @@
     "static/media/gastro2-tn.ad674d09.png": "/portfolio/static/media/gastro2-tn.ad674d09.png",
     "static/media/hours_daily.4a08ed62.png": "/portfolio/static/media/hours_daily.4a08ed62.png",
     "static/media/mark_novo_ss.ba257723.png": "/portfolio/static/media/mark_novo_ss.ba257723.png",
-    "static/media/netflix-rooms-tn.1bd38d8c.png": "/portfolio/static/media/netflix-rooms-tn.1bd38d8c.png",
+    "static/media/netflix-rooms-tn.9c78f8c8.png": "/portfolio/static/media/netflix-rooms-tn.9c78f8c8.png",
     "static/media/portrait.b51d3402.png": "/portfolio/static/media/portrait.b51d3402.png",
     "static/media/proj_figma.27f37cc0.png": "/portfolio/static/media/proj_figma.27f37cc0.png",
     "static/media/puzzle_1.ee337712.jpg": "/portfolio/static/media/puzzle_1.ee337712.jpg",
@@ -38,6 +38,6 @@
     "static/js/runtime-main.a9f76519.js",
     "static/js/2.fbda82e8.chunk.js",
     "static/css/main.1d5c0237.chunk.css",
-    "static/js/main.804cb54e.chunk.js"
+    "static/js/main.c8f9bb70.chunk.js"
   ]
 }
