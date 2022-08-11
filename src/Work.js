@@ -1,7 +1,7 @@
 import React from "react"
 import Card from "./Card"
 import Thumbnail from "./photos/thumbnail_template.jpg"
-import NetflixTN from "./photos/netflix-rooms/netflix-rooms-tn.png"
+import NetflixTN from "./photos/netflix-rooms/friend-activity-tn.png"
 import FoodieTN from "./photos/gastronaut/gastro2-tn.png"
 import { Link } from 'react-router-dom';
 import Portrait from "./photos/blue_flower.jpg"
