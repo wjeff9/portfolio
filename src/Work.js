@@ -14,7 +14,7 @@ function Work(props) {
                         <Card name="Gastronaut" desc="Designing an app for culinary enthusiasts." photo={FoodieTN} />
                     </a>
                     <a href="https://app.pitch.com/app/public/player/cd7c36bb-8840-489f-a99e-141b320bcb60" target="_blank" rel="noopener noreferrer" className="card">
-                        <Card name="Netflix Rooms" desc="Designing Netflix features to promote social interactions between viewers. Work in progress." photo={NetflixTN} />
+                        <Card name="Netflix Rooms" desc="Designing Netflix features to promote social interactions between viewers." photo={NetflixTN} />
                     </a>
                     {/* <Link className="card" to="/work/escape+room">
                         <Card name="Escape Room" desc="Creating a virtual escape room. Work in progress." photo={EscapeTN} />
