@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.1d5c0237.chunk.css",
-    "main.js": "/portfolio/static/js/main.0349267b.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.0349267b.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.17930bee.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.17930bee.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.a9f76519.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.a9f76519.js.map",
     "static/js/2.fbda82e8.chunk.js": "/portfolio/static/js/2.fbda82e8.chunk.js",
@@ -21,7 +21,7 @@
     "static/media/foodie_card_sort.25467b56.png": "/portfolio/static/media/foodie_card_sort.25467b56.png",
     "static/media/foodie_figma.dd6eaac2.png": "/portfolio/static/media/foodie_figma.dd6eaac2.png",
     "static/media/foodie_persona.6e0566c3.jpg": "/portfolio/static/media/foodie_persona.6e0566c3.jpg",
-    "static/media/friend-activity-tn.d6f1ae13.png": "/portfolio/static/media/friend-activity-tn.d6f1ae13.png",
+    "static/media/friend-activity-tn.b5bd2e66.png": "/portfolio/static/media/friend-activity-tn.b5bd2e66.png",
     "static/media/gastro2-tn.ad674d09.png": "/portfolio/static/media/gastro2-tn.ad674d09.png",
     "static/media/hours_daily.4a08ed62.png": "/portfolio/static/media/hours_daily.4a08ed62.png",
     "static/media/mark_novo_ss.ba257723.png": "/portfolio/static/media/mark_novo_ss.ba257723.png",
@@ -38,6 +38,6 @@
     "static/js/runtime-main.a9f76519.js",
     "static/js/2.fbda82e8.chunk.js",
     "static/css/main.1d5c0237.chunk.css",
-    "static/js/main.0349267b.chunk.js"
+    "static/js/main.17930bee.chunk.js"
   ]
 }
