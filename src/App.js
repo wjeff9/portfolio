@@ -43,7 +43,7 @@ function App() {
         <a className="contact-info" href="mailto:jeffwhy99@gmail.com">Email</a>
         <br />
         <br />
-        <p>© 2021 Jeffrey Wang</p>
+        <p>© 2024 Jeffrey Wang</p>
       </footer>
     </div>
   )
