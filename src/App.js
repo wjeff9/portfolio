@@ -40,7 +40,7 @@ function App() {
         <br />
         <a className="contact-info" href="https://www.linkedin.com/in/jeffrey-wang-327b0915b/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
         <br />
-        <a className="contact-info" href="mailto:jeffwhy99@gmail.com">Email</a>
+        <a className="contact-info" href="mailto:jeffwhy99@gmail.com">E-Mail</a>
         <br />
         <br />
         <p>© 2024 Jeffrey Wang</p>

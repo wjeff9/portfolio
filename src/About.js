@@ -1,5 +1,5 @@
 import React from "react"
-import Portrait from "./photos/portrait.png"
+import Portrait from "./photos/portfolio-portrait.jpg"
 
 function About(props) {
     return (
@@ -11,12 +11,12 @@ function About(props) {
                 <h2 className="intro-head">
                     Hello, <br />
                     I’m Jeffrey, <br />
-                    a Product Designer.
+                    a Data Scientist.
                 </h2>
                 <br /><br />
                 <p className="intro">
-                    I study informatics with a focus in human-computer interaction at the University of Washington. 
-                    I strive to produce interfaces that are elegant, intuitive, and accessible to everyone. I hope to spend my career creating innovative solutions that leave a lasting impact on society.
+                I study analytics at Georgia Tech. 
+                I strive to produce interfaces that are elegant, intuitive, and accessible to everyone. I hope to spend my career creating innovative solutions that leave a lasting impact on society. 
                     {/* I chose this career because I enjoy sketching, being creative, and interacting with others.  */}
                 </p>
                 {/* <br /> */}
@@ -33,6 +33,7 @@ function About(props) {
                 </p> */}
                 {/* If you're familiar with <a href="https://www.16personalities.com/personality-types">personality types</a> . . . */}
             </div>
+            
         </div>
     )
 }
