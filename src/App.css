@@ -60,7 +60,7 @@ nav {
   justify-content: space-between;
   /* font-size: 150%; */
   font-weight: 400;
-  font-style: italic;
+  font-style: normal;
   width: 100%;
   padding-top: 1.25%;
   padding-bottom: 1.25%;
@@ -100,9 +100,14 @@ about
 
 .intro-head {
   font-weight: 700;
-  font-size: 150%;
+  font-size: 120%;
   color: #667670;
   display: inline;
+}
+
+.intro {
+  font-size: 80%;
+  line-height: 1.5;
 }
 
 .about-row {
@@ -149,6 +154,7 @@ work
   margin-right: 20%;
   margin-top: 2%;
   margin-bottom: 2%;
+  line-height: 1.5;
 }
 
 .card-row {
@@ -171,14 +177,14 @@ work
 
 .card-name {
   font-weight: 700;
-  font-size: 150%;
+  font-size: 120%;
   text-transform: none;
   color: #667670;
   display: inline;
 }
 
 .card-desc {
-  font-size: 100%;
+  font-size: 80%;
   display: inline;
 }
 
@@ -268,5 +274,5 @@ footer {
 }
 
 .contact-info {
-  font-style: italic;
+  font-style: normal;
 }

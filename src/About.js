@@ -10,15 +10,19 @@ function About(props) {
             <div className="about-col2">
                 <h2 className="intro-head">
                     Hello, <br />
-                    I’m Jeffrey, <br />
-                    a Data Scientist.
+                    I’m Jeffrey. <br />
                 </h2>
-                <br /><br />
                 <p className="intro">
-                I study analytics at Georgia Tech. 
-                I strive to produce interfaces that are elegant, intuitive, and accessible to everyone. I hope to spend my career creating innovative solutions that leave a lasting impact on society. 
-                    {/* I chose this career because I enjoy sketching, being creative, and interacting with others.  */}
+                    <br />
+                    I uncover insights from complex data to solve impactful, real-world problems. <br />
                 </p>
+                <p className='intro'>
+                    <br />
+                    As an analytics master’s student at Georgia Tech, I am proficient in statistical modeling, data wrangling, and data visualization.
+                    My interests include generative AI, business intelligence, and product analytics.
+                    Feel free to explore my projects!
+                </p>
+
                 {/* <br /> */}
                 {/* <p className="intro">
                     Compared to my peers, I have a strong technical background. Half of my classes are design related and the other half are coding.

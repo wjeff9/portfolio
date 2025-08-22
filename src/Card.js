@@ -8,6 +8,7 @@ function Card(props) {
             </div>
             <div className="card-col2" >
                 <h1 className="card-name">{props.name} </h1>
+                <br />
                 <p className="card-desc">
                     <br/> {props.desc} 
                 </p>

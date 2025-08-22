@@ -1,4 +1,3 @@
-import React from 'react';
 import './App.css';
 import { Route, Link, Switch, Redirect, HashRouter } from 'react-router-dom';
 import About from './About.js'
@@ -31,10 +30,10 @@ function App() {
             <Route path="/work/securate" component={ProjSecurate} />
             <Route path="/work/this+website" component={ProjMyWebsite} />
             <Route path="/work/escape+room" component={ProjEscape} />
-
           </Switch>
         </ScrollToTop>
       </HashRouter>
+
       <footer>
         <p id="contact">Contact</p>
         <br />
@@ -43,7 +42,7 @@ function App() {
         <a className="contact-info" href="mailto:jeffwhy99@gmail.com">E-Mail</a>
         <br />
         <br />
-        <p>© 2024 Jeffrey Wang</p>
+        <p>© 2025 Jeffrey Wang</p>
       </footer>
     </div>
   )
